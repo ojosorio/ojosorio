@@ -1,7 +1,7 @@
 Hi there 👋
 ===========
 
-Software Engineer
+Software Developer
 -----------------
 
 - 🌱 I’m currently learning gaming development, machine learning, and AI
